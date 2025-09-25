@@ -3,6 +3,7 @@ This is a completed assignment from the Programming for Data Science course, the
 
 
 All Requirements of Assignment 1
+
 Task 1: (25b) Working with folders and files
 1. Creating a project structure
 • Write a script that creates a project directory with subfolders:
